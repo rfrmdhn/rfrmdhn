@@ -105,12 +105,24 @@ Full-Stack and Mobile Developer with **5+ years of experience** designing, build
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rfrmdhn&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfrmdhn&layout=compact&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rfrmdhn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rfrmdhn&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rfrmdhn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</picture>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rfrmdhn&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rfrmdhn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rfrmdhn&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfrmdhn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rfrmdhn&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rfrmdhn&theme=default&hide_border=true" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rfrmdhn&theme=tokyonight&hide_border=true" />
+</picture>
 
 </div>
 
