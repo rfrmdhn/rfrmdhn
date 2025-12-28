@@ -106,7 +106,7 @@ Full-Stack and Mobile Developer with **5+ years of experience** designing, build
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats-gilt-six-44.vercel.app/api?username=rfrmdhn&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-gilt-six-44.vercel.app/api?username=rfrmdhn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats-gilt-six-44.vercel.app/api/top-langs/?username=rfrmdhn&layout=compact&theme=tokyonight&hide_border=true)
 
