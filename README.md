@@ -112,6 +112,8 @@ Full-Stack and Mobile Developer with **5+ years of experience** designing, build
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rfrmdhn&theme=tokyonight&hide_border=true)
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rfrmdhn&theme=tokyo-night&hide_border=true)](https://github.com/rfrmdhn)
+
 </div>
 
 ---
