@@ -16,7 +16,7 @@
 
 Full-Stack and Mobile Developer with **5+ years of experience** designing, building, and shipping web and mobile applications across **banking**, **investment**, and **IoT** sectors. I architect scalable solutions, integrate complex APIs, and transform business requirements into reliable products.
 
-- 🔭 Currently working as **Fullstack Developer** at **PT. Victoria Investama, Tbk**
+- 🔭 Currently working as **Fullstack Developer**
 - 🌱 Building enterprise accounting systems and mobile apps with Flutter
 - 💼 Background spans full-stack development, mobile development, solution design, testing, and IT support
 - 🎓 Bachelor of Computer Science from **Universitas Budi Luhur** (GPA: 3.49)
