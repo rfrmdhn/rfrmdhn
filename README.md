@@ -106,9 +106,9 @@ Full-Stack and Mobile Developer with **5+ years of experience** designing, build
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rfrmdhn&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-gilt-six-44.vercel.app/api?username=rfrmdhn&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfrmdhn&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-gilt-six-44.vercel.app/api/top-langs/?username=rfrmdhn&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rfrmdhn&theme=tokyonight&hide_border=true)
 
