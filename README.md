@@ -12,19 +12,19 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 Full-Stack and Mobile Developer with **5+ years of experience** designing, building, and shipping web and mobile applications across **banking**, **investment**, and **IoT** sectors. I architect scalable solutions, integrate complex APIs, and transform business requirements into reliable products.
 
-- 🔭 Currently working as **Fullstack Developer**
-- 🌱 Building enterprise accounting systems and mobile apps with Flutter
-- 💼 Background spans full-stack development, mobile development, solution design, testing, and IT support
-- 🎓 Bachelor of Computer Science from **Universitas Budi Luhur** (GPA: 3.49)
-- 📍 Based in **Jakarta, Indonesia**
+- Currently working as **Fullstack Developer**
+- Building enterprise accounting systems and mobile apps with Flutter
+- Background spans full-stack development, mobile development, solution design, testing, and IT support
+- Bachelor of Computer Science from **Universitas Budi Luhur** (GPA: 3.49)
+- Based in **Jakarta, Indonesia**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -77,27 +77,27 @@ Full-Stack and Mobile Developer with **5+ years of experience** designing, build
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
-### 🏢 PT. Victoria Investama, Tbk | Fullstack Developer
+### PT. Victoria Investama, Tbk | Fullstack Developer
 **January 2025 – Present** | Jakarta, Indonesia
 - Built enterprise accounting system with Journal, COA, Bank Accounts, and Maker-Checker-Approver workflows
 - Initiated and delivered **My Victoria** mobile app (Flutter) from scratch
 - Defined API contracts and documentation, reducing integration friction between teams
 
-### 🏢 PT. Infosys Solusi Terpadu | Frontend Developer
+### PT. Infosys Solusi Terpadu | Frontend Developer
 **January 2024 – January 2025** | Jakarta, Indonesia
 - Delivered secure, high-performance **Internet Banking** interfaces for Bank Victoria
 - Implemented **Micro-Frontend architecture** using Webpack Module Federation
 - Built core banking features (login, transactions, bill payment)
 
-### 🏢 PT Telkom Indonesia (Persero) Tbk | Frontend Developer
+### PT Telkom Indonesia (Persero) Tbk | Frontend Developer
 **March 2022 – January 2024** | Jakarta, Indonesia
 - Led frontend team and designed scalable **IoT platform architecture**
 - Built real-time monitoring dashboards for energy, assets, and healthcare data
 - Integrated APIs and WebSocket for live device data
 
-### 🎨 Sekoci Inovasi Teknologi | UI/UX Designer
+### Sekoci Inovasi Teknologi | UI/UX Designer
 **February 2021 – February 2022** | Jakarta, Indonesia
 - Designed user journeys and prototypes for **Booking360**
 - Supported Play Store launch, accelerating go-to-market
@@ -105,7 +105,7 @@ Full-Stack and Mobile Developer with **5+ years of experience** designing, build
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -122,7 +122,7 @@ Full-Stack and Mobile Developer with **5+ years of experience** designing, build
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -138,17 +138,17 @@ Full-Stack and Mobile Developer with **5+ years of experience** designing, build
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
-- 📊 **Data Analysis** - MySkill (2023)
-- 🎨 **Digital Talent Scholarship - UI/UX** - Kominfo (2021)
-- 📋 **IT Project Management** - Kominfo (2020)
-- 🖌️ **UI/UX Design** - SanberCode (2020)
-- 💻 **The Complete Front-End Web Development Course** - Udemy (2023)
+- **Data Analysis** - MySkill (2023)
+- **Digital Talent Scholarship - UI/UX** - Kominfo (2021)
+- **IT Project Management** - Kominfo (2020)
+- **UI/UX Design** - SanberCode (2020)
+- **The Complete Front-End Web Development Course** - Udemy (2023)
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -166,6 +166,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   
 ![Profile Views](https://komarev.com/ghpvc/?username=rfrmdhn&color=blueviolet&style=for-the-badge)
 
-**Thanks for visiting! Have a great day! 😄**
+**Thanks for visiting! Have a great day!**
 
 </div>
