@@ -110,10 +110,15 @@ Full-Stack and Mobile Developer with **5+ years of experience** designing, build
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **Victoria Accounting** | Enterprise accounting system with multi-role approval flow | NestJS, Angular, MySQL |
-| **My Victoria** | Mobile loyalty app for Victoria customers | Flutter |
+| **My Victoria Loyalty Platform** | Unified loyalty ecosystem with mobile app, customer web, and CMS admin. | Flutter, Angular, NestJS, Prisma, MySQL, Redis |
+| **IBB BVIC - Internet Banking Platform** | Corporate digital banking platform for Bank Victoria with forex rates & approval workflows. | React.js, TypeScript, Material-UI, REST API |
 | **Console Telkom IoT** | Admin console for device and sensor management | PHP Laravel, WebSocket, Bootstrap |
-| **Internet Banking** | Secure banking interfaces with micro-frontend | React, TypeScript, Webpack |
-| **INLLET** | Visitor tracking system for exhibitions | PHP Laravel, Mapbox, MySQL |
+| **INLLET - Living Lab Dashboard** | Web-based monitoring platform for centralized management of Living Labs and IoT devices. | Laravel, MySQL, Bootstrap, Mapbox, WebSocket |
+| **DAP - FACP IoT Dashboard** | IoT-based Fire Alarm Control Panel system for real-time smoke and fire detection. | Laravel, MySQL, Bootstrap, WebSocket |
+| **Efficiency Energy Actuator Dashboard** | IoT dashboard for managing devices and optimizing energy efficiency. | Laravel, MySQL, Bootstrap |
+| **Sajadi Monitoring Dashboard** | RFID-based inventory management system for monitoring mosque prayer mats. | Laravel, MySQL, Bootstrap, Chart.js, RFID |
+| **Smart Meter Neucentrix Dashboard** | Energy monitoring dashboard for Neucentrix data center servers and racks. | Laravel, MySQL, Bootstrap, Chart.js, IoT Platform |
+| **YCC - IoT Medical Checkup Booth** | IoT-based self-service medical checkup booth for contactless health monitoring. | Laravel, MySQL, Bootstrap, Chart.js, IoT Devices |
 
 ---
 
