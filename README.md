@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Rafi Ramadhan Athallah 👋
+# Hi there, I'm Rafi Ramadhan Athallah
 
 ### Fullstack & Mobile Developer | IT Professional
 
