@@ -2,7 +2,7 @@
   
 # Hi there, I'm Rafi Ramadhan Athallah
 
-### Fullstack & Mobile Developer | IT Professional
+### Lead IT & Fullstack Engineer | Go, NestJS, React, Flutter | Enterprise Systems, IT Leadership & Financial Platforms
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafiramadhan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rafiramadhanathallah.vercel.app/)
@@ -14,11 +14,11 @@
 
 ## About Me
 
-Full-Stack and Mobile Developer with **5+ years of experience** designing, building, and shipping web and mobile applications across **banking**, **investment**, and **IoT** sectors. I architect scalable solutions, integrate complex APIs, and transform business requirements into reliable products.
+Lead IT and Fullstack Engineer with **5+ years of experience** building enterprise systems and leading IT operations. Currently heading IT at **PT. Victoria Investama** — managing team performance, IT roadmap, budgeting, vendor relations, infrastructure, and end-to-end project delivery — while remaining hands-on across Go and NestJS backend architecture, cross-platform mobile development with Flutter, and enterprise platform engineering.
 
-- Currently working as **Fullstack Developer**
-- Building enterprise accounting systems and mobile apps with Flutter
-- Background spans full-stack development, mobile development, solution design, testing, and IT support
+- Leading IT at **PT. Victoria Investama, Tbk** as **Lead IT** (since Jan 2026)
+- Hands-on across enterprise accounting systems, banking platforms, procurement systems, and IoT dashboards
+- Freelancing at **Noohtify** — logistics middleware, brand websites, and CMS solutions
 - Bachelor of Computer Science from **Universitas Budi Luhur** (GPA: 3.49)
 - Based in **Jakarta, Indonesia**
 
@@ -29,49 +29,50 @@ Full-Stack and Mobile Developer with **5+ years of experience** designing, build
 <div align="center">
 
 ### Languages & Databases
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### UI Frameworks
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Tools & Others
+### Tools & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-27E1C1?style=for-the-badge&logo=asana&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
 </div>
 
@@ -79,29 +80,51 @@ Full-Stack and Mobile Developer with **5+ years of experience** designing, build
 
 ## Work Experience
 
-### PT. Victoria Investama, Tbk | Fullstack Developer
-**January 2025 – Present** | Jakarta, Indonesia
-- Built enterprise accounting system with Journal, COA, Bank Accounts, and Maker-Checker-Approver workflows
-- Initiated and delivered **My Victoria** mobile app (Flutter) from scratch
-- Defined API contracts and documentation, reducing integration friction between teams
+### Noohtify | Software Engineer (Freelance)
+**April 2026 – Present** | Remote, Indonesia
+- Designed and built **SSN Middleware** — a logistics reconciliation system integrating Locus and SAP with RBAC and full audit logging
+- Developed the **Aquviva** brand website for Wings Food's premium bottled water line — GSAP animations, Lenis smooth scroll, i18n, and Strapi CMS
+- Engineered the **Aquviva Strapi CMS** backend with AWS S3 media storage, role-based permissions, and auto-generated API documentation
+
+### PT. Victoria Investama, Tbk | Jakarta, Indonesia
+**January 2025 – Present**
+
+**↑ Lead IT** *(January 2026 – Present)*
+- Led the full IT team — task allocation, performance reviews, KPI tracking, career development, and onboarding — while serving as primary escalation point across software, infrastructure, and operations
+- Defined and owned the IT roadmap, aligning technology direction with business strategy; managed department budget, vendor evaluations, and procurement decisions across hardware, software, and services
+- Established IT policies covering development processes, security, and access control; oversaw server, network, and hardware infrastructure with disaster recovery and business continuity planning
+- Primary liaison between IT and business stakeholders, translating requirements into IT initiatives, writing technical specs and BRDs, and maintaining delivery alignment throughout execution
+- Remained hands-on as architect and engineer on key internal systems, conducting code reviews and directly contributing to strategic platform builds
+
+**Fullstack Developer - IT** *(January 2025 – January 2026)*
+- Primary hands-on engineer across **Victoria Accounting**, **My Victoria**, and **e-Procurement** — spanning web applications, admin panels, CMS, internal tools, and backend services
+- Architected and delivered enterprise-grade internal systems replacing manual Excel-based workflows, reducing report preparation time from hours to minutes while preserving data integrity and audit readiness
+- Led cross-functional IT team across planning, prioritization, and execution; primary coordination point between IT and business stakeholders to maintain delivery alignment
+
+`NestJS · Golang · Angular · React · Flutter · MySQL · Redis · BullMQ · MinIO · Docker · Ubuntu Server · Nginx · GitHub Actions · Jest · Jasmine`
 
 ### PT. Infosys Solusi Terpadu | Frontend Developer
-**January 2024 – January 2025** | Jakarta, Indonesia
-- Delivered secure, high-performance **Internet Banking** interfaces for Bank Victoria
-- Implemented **Micro-Frontend architecture** using Webpack Module Federation
-- Built core banking features (login, transactions, bill payment)
+**January 2024 – January 2025** | Jakarta, Indonesia *(Project: Internet Banking for Bank Victoria)*
+- Developed high-performance **Internet Banking** interfaces using React + TypeScript with Micro Frontend (Module Federation)
+- Implemented JWT authentication, data encryption, RBAC, and MFA with Soft/Hard Token support for bulk approval workflows
+- Integrated Jotai for state management and React Query for server-state caching
 
 ### PT Telkom Indonesia (Persero) Tbk | Frontend Developer
-**March 2022 – January 2024** | Jakarta, Indonesia
-- Led frontend team and designed scalable **IoT platform architecture**
-- Built real-time monitoring dashboards for energy, assets, and healthcare data
-- Integrated APIs and WebSocket for live device data
+**March 2022 – January 2024** | Jakarta, Indonesia *(Project: Telkom IoT Platform)*
+- Built real-time monitoring dashboards for energy, asset, and healthcare IoT supporting thousands of devices
+- Integrated WebSocket and REST APIs for live device data with optimized responsiveness and data integrity
+- Delivered full-stack IoT projects — feature development, API integration, and database interactions
 
 ### Sekoci Inovasi Teknologi | UI/UX Designer
-**February 2021 – February 2022** | Jakarta, Indonesia
-- Designed user journeys and prototypes for **Booking360**
-- Supported Play Store launch, accelerating go-to-market
-- Converted designs into React components
+**February 2021 – February 2022** | Jakarta, Indonesia *(Product: Booking360)*
+- Designed system flows and prototypes improving overall product architecture and usability
+- Managed Play Store deployment pipeline, accelerating go-to-market delivery
+- Implemented React components from design specifications
+
+### iNews TV | IT Broadcast Engineer
+**July 2019 – September 2019** | Greater Jakarta Area, Indonesia
+- Developed internal tools for stock monitoring and inventory management
+- Provided IT infrastructure support, reducing incident resolution time
 
 ---
 
@@ -109,16 +132,18 @@ Full-Stack and Mobile Developer with **5+ years of experience** designing, build
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Victoria Accounting** | Enterprise accounting system with multi-role approval flow | NestJS, Angular, MySQL |
-| **My Victoria Loyalty Platform** | Unified loyalty ecosystem with mobile app, customer web, and CMS admin. | Flutter, Angular, NestJS, Prisma, MySQL, Redis |
-| **IBB BVIC - Internet Banking Platform** | Corporate digital banking platform for Bank Victoria with forex rates & approval workflows. | React.js, TypeScript, Material-UI, REST API |
-| **Console Telkom IoT** | Admin console for device and sensor management | PHP Laravel, WebSocket, Bootstrap |
-| **INLLET - Living Lab Dashboard** | Web-based monitoring platform for centralized management of Living Labs and IoT devices. | Laravel, MySQL, Bootstrap, Mapbox, WebSocket |
-| **DAP - FACP IoT Dashboard** | IoT-based Fire Alarm Control Panel system for real-time smoke and fire detection. | Laravel, MySQL, Bootstrap, WebSocket |
-| **Efficiency Energy Actuator Dashboard** | IoT dashboard for managing devices and optimizing energy efficiency. | Laravel, MySQL, Bootstrap |
-| **Sajadi Monitoring Dashboard** | RFID-based inventory management system for monitoring mosque prayer mats. | Laravel, MySQL, Bootstrap, Chart.js, RFID |
-| **Smart Meter Neucentrix Dashboard** | Energy monitoring dashboard for Neucentrix data center servers and racks. | Laravel, MySQL, Bootstrap, Chart.js, IoT Platform |
-| **YCC - IoT Medical Checkup Booth** | IoT-based self-service medical checkup booth for contactless health monitoring. | Laravel, MySQL, Bootstrap, Chart.js, IoT Devices |
+| **SSN Middleware** | Logistics reconciliation system bridging Locus and SAP to resolve quantity discrepancies with RBAC and audit logging | Laravel 13, PHP 8.4, PostgreSQL, Tailwind CSS v4 |
+| **Aquviva – Brand Website & CMS** | Full-stack brand website for Wings Food's Aquviva with GSAP animations, i18n, and Strapi 5 CMS backend | Next.js 15, TypeScript, Tailwind CSS v4, Strapi 5, AWS S3 |
+| **e-Procurement Platform** | Full-cycle enterprise procurement platform (PR → RFQ → PO) with microservices, multi-level approvals, and vendor portal | Go, Gin, GORM, MySQL, Redis, React 19, Ant Design |
+| **Victoria Accounting** | Enterprise accounting system with Maker–Checker–Approver workflow, BullMQ async processing, and 70%+ test coverage | NestJS, Angular, MySQL, Redis, BullMQ, Jest, Jasmine |
+| **My Victoria – Loyalty Platform** | Flutter mobile loyalty app with microservices backend, reward redemption, and NestJS API documentation | Flutter, Angular, NestJS, Prisma, MySQL, Redis |
+| **IBB Corp – Internet Banking** | Corporate digital banking platform for Bank Victoria with Micro Frontend architecture and MFA approval workflows | React.js, TypeScript, Jotai, React Query, Material UI |
+| **Console Telkom IoT** | Admin console for device and sensor management with real-time WebSocket updates | PHP, Laravel, Bootstrap, WebSocket |
+| **INLLET – Living Lab Dashboard** | Visitor interaction tracking platform for live exhibitions with Mapbox spatial visualization | Laravel, MySQL, Bootstrap, Mapbox, WebSocket |
+| **DAP – FACP IoT Dashboard** | IoT-based Fire Alarm Control Panel for real-time smoke and fire detection with 3D floor visualization | Laravel, MySQL, Bootstrap, WebSocket, MQTT |
+| **Smart Meter Neucentrix** | Energy monitoring dashboard for Neucentrix data center servers and racks | Laravel, MySQL, IoT Platform, Chart.js |
+| **YCC – IoT Medical Checkup Booth** | Self-service IoT medical checkup booth for contactless health monitoring | Laravel, PHP, MySQL, Bootstrap, Chart.js |
+| **Sajadi Monitoring Dashboard** | RFID-based inventory system for monitoring mosque prayer mats with real-time status tracking | Laravel, MySQL, Bootstrap, Chart.js, RFID |
 
 ---
 
@@ -140,11 +165,12 @@ Full-Stack and Mobile Developer with **5+ years of experience** designing, build
 
 ## Certifications
 
-- **Data Analysis** - MySkill (2023)
-- **Digital Talent Scholarship - UI/UX** - Kominfo (2021)
-- **IT Project Management** - Kominfo (2020)
-- **UI/UX Design** - SanberCode (2020)
-- **The Complete Front-End Web Development Course** - Udemy (2023)
+- **Keamanan Informasi (Micro Skill)** - Digital Talent Scholarship (August 2025)
+- **Data Analysis** - MySkill (November 2023)
+- **Digital Talent Scholarship - UI/UX** - Kominfo (October 2021)
+- **Digital Talent Scholarship - IT Project Management** - Kominfo (November 2020)
+- **UI/UX Design** - SanberCode (October 2020)
+- **Basic Computer Algorithms Competency** - Universitas Budi Luhur (August 2018)
 
 ---
 
