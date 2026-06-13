@@ -95,7 +95,7 @@ Lead IT and Fullstack Engineer with **5+ years of experience** building enterpri
 ### PT. Victoria Investama, Tbk | Jakarta, Indonesia
 **January 2025 – Present**
 
-***Lead IT** *(January 2026 – Present)*
+**Lead IT** *(January 2026 – Present)*
 - Led the full IT team — task allocation, performance reviews, KPI tracking, career development, and onboarding — while serving as primary escalation point across software, infrastructure, and operations
 - Defined and owned the IT roadmap, aligning technology direction with business strategy; managed department budget, vendor evaluations, and procurement decisions across hardware, software, and services
 - Established IT policies covering development processes, security, and access control; oversaw server, network, and hardware infrastructure with disaster recovery and business continuity planning
